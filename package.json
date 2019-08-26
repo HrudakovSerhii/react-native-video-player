@@ -1,0 +1,30 @@
+{
+  "name": "react-native-video-player",
+  "version": "0.0.1",
+  "description": "Video player for React Native application with simple controls on top of react-native-video package",
+  "license": "MIT",
+  "main": "VideoPlayer.js",
+  "keywords": [
+    "react-native",
+    "react-native-video",
+    "react video controls",
+    "react video player",
+    "react video custom style player"
+  ],
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "author": "Serhii Hrudakov (https://github.com/SerhiiHrudakov)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SerhiiHrudakov/react-native-video-player"
+  },
+  "dependencies": {
+    "lodash": "4.17.15",
+    "prop-types": "^15.7.2"
+  },
+  "peerDependencies": {
+    "react-native": ">= 0.57.0",
+    "react-native-video": "5.0.0"
+  }
+}
