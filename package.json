@@ -21,7 +21,10 @@
   },
   "dependencies": {
     "lodash": "4.17.15",
-    "prop-types": "^15.7.2"
+    "prop-types": "^15.7.2",
+    "react": "16.9.0",
+    "react-native": "0.60.0",
+    "react-native-video": "5.0.0"
   },
   "peerDependencies": {
     "react-native": ">= 0.57.0",
